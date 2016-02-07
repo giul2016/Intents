@@ -29,8 +29,6 @@ public class ItemDetalheActivity extends AppCompatActivity {
             imagem.setImageResource(item.getIcon());
             titulo.setText(item.getTitle());
         }
-
     }
-
 
 }
